@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+
+  <test name="TestNG">
+  <parameter name="browser" value="chrome"></parameter>
+    <classes>
+      
+      <class name="com.Selenium.Training_TestCases.TC_012_Calendar"></class>
+      <class name="com.Selenium.Training_TestCases.TC_003_Links"></class>
+ 
+    </classes>
+  </test> <!-- TestNG -->
+</suite> <!-- Suite -->

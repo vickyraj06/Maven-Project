@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9198" started-at="2022-05-02T09:58:19 IST" finished-at="2022-05-02T09:58:28 IST">
+    <groups>
+    </groups>
+    <test name="TestNG" duration-ms="9198" started-at="2022-05-02T09:58:19 IST" finished-at="2022-05-02T09:58:28 IST">
+      <class name="com.Selenium.Training_TestCases.TC_012_Calendar">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Selenium.Training_TestCases.TC_012_Calendar@63a65a25]" name="setup" is-config="true" duration-ms="4451" started-at="2022-05-02T09:58:19 IST" finished-at="2022-05-02T09:58:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Test_Calendar()[pri:0, instance:com.Selenium.Training_TestCases.TC_012_Calendar@63a65a25]" name="Test_Calendar" duration-ms="3958" started-at="2022-05-02T09:58:24 IST" finished-at="2022-05-02T09:58:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Calendar -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.Selenium.Training_TestCases.TC_012_Calendar@63a65a25]" name="teardown" is-config="true" duration-ms="725" started-at="2022-05-02T09:58:28 IST" finished-at="2022-05-02T09:58:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Selenium.Training_TestCases.TC_012_Calendar -->
+    </test> <!-- TestNG -->
+  </suite> <!-- Suite -->
+</testng-results>

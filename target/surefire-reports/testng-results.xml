@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16967" started-at="2022-05-02T13:12:39 IST" finished-at="2022-05-02T13:12:56 IST">
+    <groups>
+    </groups>
+    <test name="TestNG" duration-ms="16967" started-at="2022-05-02T13:12:39 IST" finished-at="2022-05-02T13:12:56 IST">
+      <class name="com.Selenium.Training_TestCases.TC_012_Calendar">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Selenium.Training_TestCases.TC_012_Calendar@192d3247]" name="setup" is-config="true" duration-ms="5505" started-at="2022-05-02T13:12:40 IST" finished-at="2022-05-02T13:12:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Test_Calendar()[pri:0, instance:com.Selenium.Training_TestCases.TC_012_Calendar@192d3247]" name="Test_Calendar" duration-ms="5562" started-at="2022-05-02T13:12:45 IST" finished-at="2022-05-02T13:12:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Calendar -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.Selenium.Training_TestCases.TC_012_Calendar@192d3247]" name="teardown" is-config="true" duration-ms="750" started-at="2022-05-02T13:12:51 IST" finished-at="2022-05-02T13:12:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Selenium.Training_TestCases.TC_012_Calendar -->
+      <class name="com.Selenium.Training_TestCases.TC_003_Links">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Selenium.Training_TestCases.TC_003_Links@7a30d1e6]" name="setup" is-config="true" duration-ms="2176" started-at="2022-05-02T13:12:51 IST" finished-at="2022-05-02T13:12:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Test_Links()[pri:0, instance:com.Selenium.Training_TestCases.TC_003_Links@7a30d1e6]" name="Test_Links" duration-ms="2157" started-at="2022-05-02T13:12:54 IST" finished-at="2022-05-02T13:12:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_Links -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.Selenium.Training_TestCases.TC_003_Links@7a30d1e6]" name="teardown" is-config="true" duration-ms="726" started-at="2022-05-02T13:12:56 IST" finished-at="2022-05-02T13:12:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Selenium.Training_TestCases.TC_003_Links -->
+    </test> <!-- TestNG -->
+  </suite> <!-- Suite -->
+</testng-results>
